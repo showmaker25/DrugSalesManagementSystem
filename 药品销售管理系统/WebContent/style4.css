@@ -1,0 +1,39 @@
+body 
+{
+      margin:0px;
+      padding:0px;
+      background-color:#E7EAEB;
+      font-family:"Î¢ÈíÑÅºÚ","ºÚÌå","ËÎÌå";
+      font-size:12px;
+      height:36px;
+            
+}
+h2 {
+	color:orange;
+	text-align:center;
+	font-size:31px;
+}
+
+p {
+	font-family:"Times New Roman";
+	font-size:20px;
+	color:black;
+}
+button {
+background: #FFCC02;
+border: none;
+padding: 10px 25px 10px 25px;
+color: #585858;
+border-radius: 4px;
+-moz-border-radius: 4px;
+-webkit-border-radius: 4px;
+text-shadow: 1px 1px 1px #FFE477;
+font-weight: bold;
+box-shadow: 1px 1px 1px #3D3D3D;
+-webkit-box-shadow:1px 1px 1px #3D3D3D;
+-moz-box-shadow:1px 1px 1px #3D3D3D;
+}
+button:hover {
+color: #333;
+background-color: #EBEBEB;
+}
